@@ -7,6 +7,8 @@ Environment :
 4. Carrier Borard -> custom
 5. TFT LCD Panel -> JD9365DA-H3(7 inch, 800x1280)
 
+Screen shot :
+Please check out "iMX8MPlus+JD9365DA-H3_20250904.png"
 
 Contents :
 1. panel-jadard-jd9365da-h3.c
